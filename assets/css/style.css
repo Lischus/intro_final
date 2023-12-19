@@ -1,0 +1,119 @@
+body {
+  background-color: #000000;
+  color: #ffffff;
+  font-family: garamond;
+  font-variant: small-caps;
+}
+
+header,
+nav,
+main,
+footer {
+  width: 10em;
+  max-width: 1170px;
+  border: 5px solid #ffffff;
+  width: 99.7%;
+  margin: 0 auto;
+}
+
+main,
+nav,
+footer {
+  height: auto;
+}
+
+a:link,
+a:visited {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #ffffff;
+}
+
+.staff {
+  width: 33%;
+  display: inline-block;
+}
+
+.staffTop {
+  width: 33%;
+  display: inline-block;
+}
+
+.staffCorner {
+  width: 16%;
+  display: inline-block;
+}
+
+.staffImage {
+  width: 50%;
+  display: block;
+  border-radius: 25%;
+  margin-left: auto;
+  margin-right: auto;
+  height: 250px;
+}
+
+nav,
+h1,
+h2,
+.thanks,
+.staffText {
+  text-align: center;
+}
+
+header {
+  width: 99.7%;
+  margin: 0 auto;
+}
+
+.copyright {
+  text-align: center;
+  padding: 0.5em;
+  margin-top: 25px;
+}
+
+.details {
+  width: 25%;
+  display: inline-block;
+}
+
+.image {
+  width: 95%;
+  display: inline-block;
+  height: 500px;
+}
+
+.chezCorr {
+  width: 74%;
+  display: inline-block;
+}
+
+.logoLeft {
+  width: 7%;
+  height: 100%;
+  float: left;
+}
+
+h1 {
+  font-size: 3em;
+  color: #ffffff;
+  display: inline-block;
+  margin-top: 0%;
+  top: XXpx;
+  left: 315px;
+  width: 85%;
+}
+
+.logoRight {
+  width: 7%;
+  height: 100%;
+  float: right;
+}
+
+.navLinks {
+  padding: 40px;
+}
